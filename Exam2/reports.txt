@@ -1,0 +1,6 @@
+Period: 2024-04
+Food: 80
+Period: 2024-04-03
+Food: 80
+Period: 2024-14
+Food: 80
